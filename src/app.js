@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
       "while I was praying"
     ];
 
-    let ramdonWho = Math.floor(Math.random() * who.length);
+    let = Math.floor(Math.random() * who.length);
     let ramdonAction = Math.floor(Math.random() * action.length);
     let ramdonWhat = Math.floor(Math.random() * what.length);
     let ramdonWhen = Math.floor(Math.random() * when.length);
